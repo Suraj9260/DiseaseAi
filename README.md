@@ -44,7 +44,7 @@ Welcome to **DiseaseAi**, a cutting-edge platform designed to provide concise an
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/FurkanKhann/DiseaseAi.git
+   git clone https://github.com/Suraj9260/DiseaseAi.git
    ```
 2. **Install Dependencies**:
    ```bash
@@ -58,14 +58,5 @@ Welcome to **DiseaseAi**, a cutting-edge platform designed to provide concise an
 ### Contribution
 
 We welcome contributions from the community. Feel free to open issues or submit pull requests to help us improve Disease.Ai.
-
-### Contact
-
-For more information, please contact:
-- **Email**: khanfurkan575@gmail.com
-- **GitHub**: [FurkanKhann](https://github.com/FurkanKhann)
-- **LinkedIn**: [Furkan Khan](https://www.linkedin.com/in/furkankhan16/)
-
----
 
 Join us on this journey to make accurate and reliable medical knowledge easily accessible for everyone!
