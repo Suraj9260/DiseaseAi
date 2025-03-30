@@ -7,7 +7,7 @@ from gtts import gTTS
 import os
 
 # Initialize Pinecone with API key
-pc = Pinecone(api_key="738525ca-b923-4198-ad0d-ff6f81f969e1")
+pc = Pinecone(api_key="")
 index_name = "langchainvector"
 index = pc.Index(index_name)
 
